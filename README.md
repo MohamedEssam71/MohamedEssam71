@@ -2,7 +2,7 @@
 My name is Mohamed Essam
 
 I am a 2nd year college student. Studying computer science at Cairo-University.
-Learning about programming language, having passion in game development with third-party game development tool framework
+Learning about programming language and having passion for game development with third-party game development tool framework
 as Unity and UE5. 
 
 <!--
