@@ -1,5 +1,3 @@
-# Mohamed71
-Profile description
 ## Hoşgeldin arkadaş 👋
 My name is Mohamed Essam
 
