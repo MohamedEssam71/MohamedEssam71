@@ -1,9 +1,7 @@
 ## Hoşgeldin arkadaş 👋
 My name is Mohamed Essam
 
-I am a 2nd year college student. Studying computer science at Cairo-University.
-Learning about programming language and having passion for game development with third-party game development tool framework
-as Unity and UE5. 
+I am a sophomore college student. Studying computer science at Cairo-University. Keen on learning about programming language and having passion for game development with third-party game development tool framework as Unity and UE5.
 
 <!--
 **MohamedEssam71/Mohamed71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
