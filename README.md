@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 <img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
 </p>
 
-### Tools
-<p>
-<img height="50" src="https://user-images.githubusercontent.com/101745968/184380212-076241cd-c01b-4249-926c-bf62106b29c2.png">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/178999059-8c16afce-f951-4468-ac1b-520278106248.png">
-</p>
 
 ### Follow Me on:
 <p>
