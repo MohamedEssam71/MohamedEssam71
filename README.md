@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mohamed-essam-936b6a249/">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
 </a> 
-
+/*
 <a href="https://www.facebook.com/mohamed.essam.5623293">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179002044-763b6a85-1a13-4b63-9e29-247c8d94d02c.png">
 </a> 
+*/
 
 <a href="https://t.me/Essam_71">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-dc618525ad6b.png">
