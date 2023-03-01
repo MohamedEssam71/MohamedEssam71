@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 </p>
 </br> </br>
 
+<!--- 
 ## <p align="center">🔥 My Stats</p>
 
 <p align="center">
@@ -53,8 +54,7 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam71&theme=vision-friendly-dark&layout=compact"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam71&theme=vision-friendly-dark&show_icons=true&locale=en"/></p>
-
-
+---->
 
 </p>
 </br> </br>
