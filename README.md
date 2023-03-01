@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ---->
 
 </p>
-</br> </br>
+<!--- </br> </br>> 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
