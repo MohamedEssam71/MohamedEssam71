@@ -26,7 +26,7 @@ I am a junior college student studying computer science at Cairo University. I a
 ## Databases
 
 <p>
-<img height="60" src="./Images/programming languages/microsoft-sql-server.svg">&nbsp;&nbsp;
+<img height="60" src="./Images/programming languages/microsoft-sql-server-logo-svgrepo-com.svg">&nbsp;&nbsp;
 </p>
 
 
