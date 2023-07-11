@@ -1,28 +1,32 @@
-## Greeting 👋
-My name is Mohamed Essam
+# <p align="center">Mohamed Essam Mahmoud Osman </p>
 
-I am a sophomore college student. Studying computer science at Cairo-University. Keen on learning about programming language and having passion for game development with third-party game development tool framework as Unity and UE5.
+I am a junior college student studying computer science at Cairo University. I am keen on learning about programming languages and have a passion for game development using third-party game development tools such as Unity and UE5.
 
-<!--
-**MohamedEssam71/Mohamed71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Programming languages:
+## Programming languages
 
 <p>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
+<img height="50" src="./Images/programming languages/cpp.svg">&nbsp;&nbsp;
+<img height="50" src="./Images/programming languages/c-sharp.svg">&nbsp;&nbsp;
+<img height="50" src="./Images/programming languages/java.svg">&nbsp;&nbsp;
+</p>
+
+<p>
+<img height="50" src="./Images/programming languages/html5.svg">&nbsp;&nbsp;
+<img height="50" src="./Images/programming languages/css3.svg">&nbsp;&nbsp;
+<img height="50" src="./Images/programming languages/javascript.svg">&nbsp;&nbsp;
+</p>
+
+<p>
+<img height="50" src="./Images/programming languages/python.svg">&nbsp;&nbsp;
+<img height="50" src="./Images/programming languages/django.svg">&nbsp;&nbsp;
+</p>
+
+
+
+## Databases
+
+<p>
+<img height="60" src="./Images/programming languages/microsoft-sql-server.svg">&nbsp;&nbsp;
 </p>
 
 
@@ -44,9 +48,10 @@ Here are some ideas to get you started:
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
 </a> 
 </p>
-</br> </br>
+
 
 <!--- 
+</br> </br>
 ## <p align="center">🔥 My Stats</p>
 
 <p align="center">
@@ -54,11 +59,11 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam71&theme=vision-friendly-dark&layout=compact"/></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam71&theme=vision-friendly-dark&show_icons=true&locale=en"/></p>
----->
+
 
 </p>
-<!--- </br> </br>> 
+<!--- </br> </br>>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
 
