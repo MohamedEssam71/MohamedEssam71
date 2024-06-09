@@ -1,6 +1,6 @@
 # <p align="center">Mohamed Essam Mahmoud Osman </p>
 
-I am a junior college student studying computer science at Cairo University. I am keen on learning about programming languages and have a passion for game development using third-party game development tools such as Unity and UE5.
+I am a senior college student studying computer science at Cairo University. I am keen on learning about programming languages and have a passion for game development using third-party game development tools such as Unity and UE5.
 
 ## Programming languages
 
