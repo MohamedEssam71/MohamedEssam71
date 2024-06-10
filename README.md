@@ -3,13 +3,13 @@
 I am a senior college student studying computer science at Cairo University. I am keen on learning about programming languages and have a passion for game development using third-party game development tools such as Unity and UE5.
 
 ## Programming languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,django,java,spring,html,css,js,git,md&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,django,java,spring,html,css,js,git,md&perline=4)](https://skillicons.dev)
 
 <!--## Databases-->
 
 
 ## Knowledge
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,postman,bootstrap,qt,regex,xd,ps,r,sqlite,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,postman,bootstrap,qt,regex,xd,ps,r,sqlite,mysql&perline=5)](https://skillicons.dev)
 
 <!--
 <img height="60" src="./Images/programming languages/microsoft-sql-server-logo-svgrepo-com.svg">&nbsp;&nbsp;
