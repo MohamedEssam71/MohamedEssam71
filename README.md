@@ -5,13 +5,14 @@ I am a senior college student studying computer science at Cairo University. I a
 ## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,django,java,spring,html,css,js,git,md&perline=3)](https://skillicons.dev)
 
-## Databases
-<img height="60" src="./Images/programming languages/microsoft-sql-server-logo-svgrepo-com.svg">&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+<!--## Databases-->
+
 
 ## Knowledge
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,postman,bootstrap,qt,regex,xd,ps,r&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,postman,bootstrap,qt,regex,xd,ps,r,sqlite,mysql&perline=3)](https://skillicons.dev)
+
 <!--
+<img height="60" src="./Images/programming languages/microsoft-sql-server-logo-svgrepo-com.svg">&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,html,css,js,python,django,java,spring,git,linux,windows,md,postman,powershell,qt,regex,ubuntu&perline=3)](https://skillicons.dev)
 <p>
 <img height="50" src="./Images/programming languages/cpp.svg">&nbsp;&nbsp;
