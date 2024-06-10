@@ -3,7 +3,16 @@
 I am a senior college student studying computer science at Cairo University. I am keen on learning about programming languages and have a passion for game development using third-party game development tools such as Unity and UE5.
 
 ## Programming languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,django,java,spring,html,css,js,git,md&perline=3)](https://skillicons.dev)
 
+## Databases
+<img height="60" src="./Images/programming languages/microsoft-sql-server-logo-svgrepo-com.svg">&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+
+## Knowledge
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,postman,bootstrap,qt,regex,xd,ps,r&perline=3)](https://skillicons.dev)
+<!--
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,html,css,js,python,django,java,spring,git,linux,windows,md,postman,powershell,qt,regex,ubuntu&perline=3)](https://skillicons.dev)
 <p>
 <img height="50" src="./Images/programming languages/cpp.svg">&nbsp;&nbsp;
 <img height="50" src="./Images/programming languages/c-sharp.svg">&nbsp;&nbsp;
@@ -20,14 +29,10 @@ I am a senior college student studying computer science at Cairo University. I a
 <img height="50" src="./Images/programming languages/python.svg">&nbsp;&nbsp;
 <img height="50" src="./Images/programming languages/django.svg">&nbsp;&nbsp;
 </p>
+-->
 
 
 
-## Databases
-
-<p>
-<img height="60" src="./Images/programming languages/microsoft-sql-server-logo-svgrepo-com.svg">&nbsp;&nbsp;
-</p>
 
 
 ### Follow Me on:
