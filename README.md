@@ -9,7 +9,7 @@ I am a senior college student studying computer science at Cairo University. I a
 
 
 ## Knowledge
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,postman,bootstrap,qt,regex,xd,ps,r,sqlite,mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,ubuntu,postman,bootstrap,qt,regex,r,sqlite,mysql,xd,ps&perline=5)](https://skillicons.dev)
 
 <!--
 <img height="60" src="./Images/programming languages/microsoft-sql-server-logo-svgrepo-com.svg">&nbsp;&nbsp;
