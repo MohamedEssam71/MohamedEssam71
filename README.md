@@ -1,6 +1,9 @@
 # <p align="center">Mohamed Essam Mahmoud Osman </p>
 
-I am a senior college student studying computer science at Cairo University. I am keen on learning about programming languages and have a passion for game development using third-party game development tools such as Unity and UE5.
+I am a senior college student studying computer science at Cairo University. Focusing on back-end development and software engineering. Demonstrates proficiency in various programming languages and technologies, with a strong emphasis on web development and system design. 
+
+Adaptive learner with the ability to teach and mentor peers, contributing to academic and community growth. Experienced in solving complex problems, working collaboratively, and producing high-quality work. Recognized for academic excellence and active participation in competitive programming and IT consulting.
+
 
 ## Programming languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,c,python,django,java,spring,html,css,js,git,md&perline=4)](https://skillicons.dev)
